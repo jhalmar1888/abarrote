@@ -45,7 +45,11 @@
                     </svg>
                 </div>
 <label class="underline text-gray-900 dark:text-white">SOF. INCL. COM. JHALMAR EDHEMIR RAMOS CONDORI</label>
+<<<<<<< HEAD
 <label class="underline text-gray-900 dark:text-white">EST. ARIEL JAIME CABALLERO</label>
+=======
+<label class="underline text-gray-900 dark:text-white">EST. MATHEO RUBIN DE CELIS SALGUEIRO</label>
+>>>>>>> afdb692f8013bf09cf722b3cef2fd0681d746bf6
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">

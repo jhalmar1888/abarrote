@@ -45,6 +45,7 @@
                     </svg>
                 </div>
 <label class="underline text-gray-900 dark:text-white">SOF. INCL. COM. JHALMAR EDHEMIR RAMOS CONDORI</label>
+<label class="underline text-gray-900 dark:text-white">EST. SAMUEL ALTAMIRANO CHAVEZ</label>
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">

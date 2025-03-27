@@ -44,7 +44,7 @@
                         </g>
                     </svg>
                 </div>
-<label class="underline text-gray-900 dark:text-white">SOF. INCL. COM. JHALMAR EDHEMIR RAMOS CONDORI</label>
+                <label class="underline text-gray-900 dark:text-white">SOF. INCL. COM. JHALMAR EDHEMIR RAMOS CONDORI</label>
                 <label class="underline text-gray-900 dark:text-white">SOF. INCL. COM. JHALMAR EDHEMIR RAMOS CONDORI</label>
                 <label class="underline text-gray-900 dark:text-white">EST. ARIEL JAIME CABALLERO</label>
                 <label class="underline text-gray-900 dark:text-white">EST. MATHEO RUBIN DE CELIS SALGUEIRO</label>
